@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # 传参数顺序: 源apply_id,目标apply_id,目标create_user_id(例:sx,nj),目标create_user(例:南靖自来水有限公司)
 
 # eg:  ./dumplcbd.sh c4928be4412a43fea75263a18c387f54 e9a8d125cd734dfdb6a53ee01b1c5fba nj 水系科技
